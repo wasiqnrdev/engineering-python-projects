@@ -27,4 +27,8 @@ A Python application that simulates two-dimensional projectile motion under cons
 
 Run plot.py for simulation
 
+## Example Output
+
+![Trajectory](trajectory.png)
+
 Choose a planet, enter the initial velocity and launch angle, and the program will display the projectile's trajectory.
