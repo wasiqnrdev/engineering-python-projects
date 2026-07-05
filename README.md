@@ -28,7 +28,7 @@ Calculates key orbital parameters and visualizes circular satellite orbits aroun
   - Orbital Velocity
   - Orbital Period
   - Escape Velocity
-- Visualizes the selected planet and its circular orbit
+- Visualizes the selected planet and the circular orbit of the object
 - Uses Newtonian gravitational equations
 
 ---
