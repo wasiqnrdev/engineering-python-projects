@@ -16,7 +16,7 @@ Simulates two-dimensional projectile motion under constant gravitational acceler
   - Horizontal Range
 - Plots the projectile trajectory using NumPy and Matplotlib
 
----
+
 
 ### 🛰️ Orbital Mechanics Calculator
 
